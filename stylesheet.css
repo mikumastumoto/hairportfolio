@@ -1,0 +1,124 @@
+ul{
+  list-style: none;
+}
+*{
+  background-color: #fad3cf;
+  margin: 0;
+  padding: 0;
+}
+header{
+  color: #a696c8;
+}
+header p:active{
+  color: #2470a0;
+}
+header p{
+  float: right;
+  padding-right: 30px;
+  font-size: 30px;
+  font-weight: 600;
+  height: 50px;
+  cursor: pointer;
+}
+header h1{
+  text-align: center;
+}
+main img{
+  padding-top: 80px;
+  padding-bottom: 50px;
+  height: 600px;
+  padding-left: 450px;
+}
+main{
+  text-align: center;
+  opacity: 0.8;
+  
+}
+.menu{
+  padding-left: 100px;
+  
+}
+.menu-logo{
+  height: 200px;
+
+}
+
+.first img{
+  height: 200px;
+}
+.first{
+  text-align: center;
+}
+
+.cut{
+  float: left;
+  width: 33.333%;
+}
+.perm{
+  float: left;
+  width: 33.333%;
+}
+.color{
+  float: left;
+  width: 33.333%;
+}
+.treatment{
+  float: left;
+  width: 33.33%;
+}
+.set{
+  float: left;
+  width: 33.33%;
+}
+.pink{
+  color: #fad3cf;
+  float: left;
+  width: 33.333%;
+}
+.menshair{
+  float: left;
+  width: 33.33%;
+}
+.third{
+  margin-bottom: 50px;
+}
+.access{
+  padding-left: 100px;
+  height: 1680px;
+  
+}
+.access-logo{
+  float: left;
+  height: 200px;
+}
+.access-container{
+  margin-top: 165px;
+  float: left;
+}
+h6{
+  font-size: 25px;
+  opacity: 0.7;
+  padding-bottom: 15px;
+}
+.recrut{
+  padding-left: 100px;
+}
+h7{
+   font-size: 50px;
+   float: left;
+}
+.r-container{
+  padding-top: 150px;
+
+}
+h8{
+  font-size: 25px;
+  color: #a696c8;
+}
+.r-container li{
+  padding-top: 30px;
+  line-height: 30px;
+  padding-bottom: 80px;
+}
+
+
